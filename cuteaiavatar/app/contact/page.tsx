@@ -2,7 +2,9 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <div className="flex min-h-screen flex-col items-center justify-between p-24">
+      Contact
+    </div>
   )
 }
 
